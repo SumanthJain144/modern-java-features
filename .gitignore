@@ -1,0 +1,39 @@
+# Ignore compiled class files
+*.class
+
+# Ignore JAR, WAR, EAR archives
+*.jar
+*.war
+*.ear
+
+# Ignore build directories
+/bin/
+/build/
+/out/
+/target/
+/dist/
+
+/.gradle/
+/mvnw
+mvnw.cmd
+
+# Ignore IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Mac OS Finder metadata
+.DS_Store
+
+# Logs
+*.log

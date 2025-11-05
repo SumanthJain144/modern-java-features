@@ -1,0 +1,2 @@
+2) UnamedClass.java/UnamedClass.java in default package
+3) application logger loglevel - multisource file
