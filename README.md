@@ -1,4 +1,4 @@
-# Modern Java Features (Java 10 → 25) — Demo & Reference
+# Modern Java Features (Java 10 → 25) 
 
 This repository contains practical and developer-friendly examples that demonstrate how Java has evolved from **Java 10 to Java 25**, focusing on how these features improve **readability, performance, concurrency, and developer productivity**.
 
